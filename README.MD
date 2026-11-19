@@ -1,6 +1,7 @@
 # VigIA
 
 **Nome do projeto:** VigIA  
+**Nome do autor:** Giovanni Andrade Ramos
 **Descrição:** plataforma de segurança digital para análise de conteúdos suspeitos, acompanhamento de denúncias e educação para proteção online.  
 **Endereço de exemplo:** [https://www.vigia.com.br](https://www.vigia.com.br) — endereço ilustrativo; não indica que o domínio esteja registrado ou configurado.
 
